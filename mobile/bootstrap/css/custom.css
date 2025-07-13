@@ -1,0 +1,25 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.bg-black{
+background-color:#101010;
+	
+}
+
+.purple-btn{
+background-color:#A200FF;	
+	
+}
+
+.transparent-btn{
+background-color:transparent; 
+border:none;	
+	
+}
+
+.purple-icon{
+	
+color:#A200FF;	
+font-size:20pt;	
+}

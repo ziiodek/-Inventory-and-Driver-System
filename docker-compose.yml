@@ -1,0 +1,10 @@
+version: '3'
+services:
+    hound_project:
+        image: php5
+        container_name: hound_project
+        volumes:
+            - ./:/var/www/html
+        ports:
+            - "8080:8081"
+            - "443:443"

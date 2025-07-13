@@ -1,0 +1,1 @@
+var coordinates = [["ANGELICA CHAVEZ",-106.2369578,31.8143032],];

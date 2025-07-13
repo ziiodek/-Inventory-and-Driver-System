@@ -1,0 +1,178 @@
+body,html {
+  scroll-behavior: smooth;
+  background-color: #2B2B2B;
+  color:white;
+}
+
+.main-container{
+  padding: 1%;
+}
+
+.user-profile-image{
+width:300px;
+height:300px;
+border-radius: 100px;
+}
+
+
+.company-logo{
+  width:300px;
+  height:300px;
+  border-radius: 100px;
+}
+
+.purple-button{
+  background-color: #BD00FF;
+  color:white;
+}
+
+
+.transparent-button{
+background-color: transparent;
+border:none;
+}
+
+.purple-button:hover{
+  background-color: #8e03c1;
+  color:white;
+}
+
+.black-container{
+ border-radius: 10px;
+ background-color: #171717; 
+ border:solid 2px #FA00FF;
+ padding: 2%;
+
+}
+
+.dark-gray-container{
+  border-radius: 10px;
+  background-color: #1D1D1D; 
+  padding: 2%;
+}
+
+.black-box{
+background-color: black;
+width: inherit;
+height: inherit;
+padding:inherit;
+border-radius: 10px;
+border:solid 2px #FA00FF;
+margin: 1rem;
+padding: 1%;
+}
+
+.nav-list{
+  list-style-type: none;
+  padding: 5%;
+  margin: 0;
+}
+
+.nav-list a{
+  color:#FA00FF;
+text-decoration: none;
+}
+.nav-list li{
+display: block;
+color: #bf34ff;
+padding: 3%;
+}
+
+.dark-gray-box{
+  background-color: #171717;
+  width: inherit;
+  height: inherit;
+  padding:inherit;
+  border-radius: 10px;
+  border:solid 2px #FA00FF;
+
+}
+
+.icon{
+  color:#FA00FF;
+  font-size: 20pt;
+}
+
+.table-header{
+  background-color: #8500C3;
+}
+
+.table-row{
+ background-color: black;
+ border:solid 2px #8500C3;
+}
+
+.table-button{
+  background-color: #6B019D;
+}
+
+
+.filter-box{
+border:solid 2px #FA00FF;
+background-color: #1D1D1D;
+padding: 3%;
+}
+
+
+.footer-box{
+  width:100%;
+  border:solid 2px #FA00FF;
+  background-color: #1D1D1D;
+  border-radius: 10px;
+  color:#FA00FF;
+}
+
+.action-buttons-list{
+list-style-type: none;
+padding: 5%;
+margin: 0;
+}
+
+.action-buttons-list li{
+display: inline-block;
+padding: 3%;
+}
+
+
+.bg-gray-input{
+  border-color: #262626;
+  background-color: #262626;
+  color:#FA00FF; 
+}
+
+.bg-gray-input:active{
+  border-color: #FA00FF;
+  background-color: #262626;
+  color:#FA00FF; 
+}
+
+.alert-box{
+width: 100%;
+padding:2%;
+}
+
+.info{
+  background-color: #00FFF7;
+  color:white;
+}
+
+.error{
+  background-color: #FF0000;
+  color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
